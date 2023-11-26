@@ -16,19 +16,14 @@ $climate = fetchData($city, "", "");
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather Today!</title>
-    <!-- <link rel="stylesheet" href="../css/style.css"> -->
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- BOOTSTRAP -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" defer></script>
 </head>
-<body class="text-white" style="background-image: url(https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg);
-    background-repeat: no-repeat;
-    background-size:cover;
-    height: 100%;
-    background-attachment: fixed;
-    background-position: center;">
+<body class="text-white">
     <h4 class="text-center display-3 py-1">Weather Today</h4>
     <p class="text-center fs-6 fw-light fst-italic pb-1"><a class="text-white link-light link-underline-opacity-0 link-underline-opacity-100-hover" href="https://www.pexels.com/photo/island-during-golden-hour-and-upcoming-storm-1118873/">Background Image From Pexels</a></p>
     <div class="container py-1">
