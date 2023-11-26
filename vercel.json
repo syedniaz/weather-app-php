@@ -8,6 +8,10 @@
       {
         "src": "/(.*)",
         "dest": "/api/index.php"
-      }
+      },
+        {
+            "src": "/css/style.css",
+            "dest": "/css/style.css"
+        }
     ]
   }
