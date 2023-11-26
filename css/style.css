@@ -1,0 +1,8 @@
+body{
+    background-image: url("../img/pexels-johannes-plenio-1118873.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
