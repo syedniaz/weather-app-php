@@ -10,7 +10,7 @@
         "dest": "/api/index.php"
       },
         {
-            "src": "/css/style.css",
+            "src": "/(.*)",
             "dest": "/css/style.css"
         }
     ]
